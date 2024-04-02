@@ -1,0 +1,6 @@
+students = ["kelvin","James","Andrew","bob","rex"]
+
+for yy in students:
+    if yy == "Andrew":
+        continue
+    print(yy)
